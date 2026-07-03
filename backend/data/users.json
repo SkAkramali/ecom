@@ -1,0 +1,26 @@
+[
+  {
+    "id": "admin-user-id",
+    "name": "Alex Mercer (Admin)",
+    "email": "admin@ecommerce.com",
+    "passwordHash": "$2a$10$YD5nwK7wJ6QwjySUaVo1iO4A3tjQvQcuXcHlCIqMI/uAsuUJePqZW",
+    "role": "admin",
+    "createdAt": "2026-06-23T14:03:20.409Z"
+  },
+  {
+    "id": "customer-user-id",
+    "name": "John Doe (Customer)",
+    "email": "user@ecommerce.com",
+    "passwordHash": "$2a$10$gJs18FFiIcaGCd/QXInGfO4NyUI59k7ikK00Oct4qW7oo0WfFNKHu",
+    "role": "customer",
+    "createdAt": "2026-06-23T14:03:20.471Z"
+  },
+  {
+    "id": "br93mui9pmqqpum0e",
+    "createdAt": "2026-06-23T14:04:50.030Z",
+    "name": "akram ali",
+    "email": "akramali29@gmail.com",
+    "passwordHash": "$2a$10$/gUnIqvoPQKSiqUBaEP.iOWCqBDjtHJW.e1YYijzzQ///blSi902u",
+    "role": "customer"
+  }
+]
